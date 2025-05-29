@@ -8,7 +8,7 @@ SRCS = main.c settings/commands.c settings/settings.c
 OBJS = $(SRCS:.c=.o)
 
 # jméno výsledného spustitelného souboru
-TARGET = program
+TARGET = CLICulator
 
 all: $(TARGET)
 
