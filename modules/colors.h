@@ -15,13 +15,13 @@
 #define WHITE       "\033[37m"
 
 // Jasné (Bright) barvy
-#define BRIGHT_BLACK    "\033[90m"  // tmavě šedá
-#define BRIGHT_RED      "\033[91m"
-#define BRIGHT_GREEN    "\033[92m"
-#define BRIGHT_YELLOW   "\033[93m"
-#define BRIGHT_BLUE     "\033[94m"
-#define BRIGHT_MAGENTA  "\033[95m"
-#define BRIGHT_CYAN     "\033[96m"
-#define BRIGHT_WHITE    "\033[97m"
+#define LIGHTYBLACK    "\033[90m"  // tmavě šedá
+#define LIGHTYRED      "\033[91m"
+#define LIGHTYGREEN    "\033[92m"
+#define LIGHTYYELLOW   "\033[93m"
+#define LIGHTYBLUE     "\033[94m"
+#define LIGHTYMAGENTA  "\033[95m"
+#define LIGHTYCYAN     "\033[96m"
+#define LIGHTYWHITE    "\033[97m"
 
 #endif // COLORS_H

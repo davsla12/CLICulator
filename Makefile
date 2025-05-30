@@ -2,7 +2,7 @@ CC = gcc
 CFLAGS = -Wall -g
 
 # seznam zdrojových souborů
-SRCS = main.c settings/commands.c settings/settings.c
+SRCS = main.c settings/commands.c functions/python.c
 
 # vygenerujeme seznam objektových souborů (main.o, lib1.o, ...)
 OBJS = $(SRCS:.c=.o)
